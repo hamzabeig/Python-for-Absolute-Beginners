@@ -1,4 +1,4 @@
-![](python course banner.jpg)
+![](https://github.com/hamzabeig/Python-for-Absolute-Beginners/blob/main/python%20course%20banner.jpg)
 
 # 🔥 Python for Absolute Beginners
 
