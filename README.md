@@ -5,7 +5,7 @@
 - **Schedule**: Monday to Friday, 4 PM - 5 PM 
 - **Trainers**: 
   - [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/)
-  - Izza Fatima
+  - [Izza Fatima](https://www.linkedin.com/in/izza-fatima-5586ba221/)
 - **Moderators**:
   - [Muhammad Suleman](https://www.linkedin.com/in/muhammad-suleman-z/)
   - [Muhammad Umer Awan](https://www.linkedin.com/in/mdumerdm/)
