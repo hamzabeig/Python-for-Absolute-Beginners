@@ -1,6 +1,7 @@
 # 🔥 Python for Absolute Beginners
 
 ## ✔️ Course Information
+=  [Course Recordings](https://github.com/hamzabeig/Python-for-Absolute-Beginners/blob/main/Recordings.md)
 - **Duration**: 7 April 2025 - 02 May 2025
 - **Schedule**: Monday to Friday, 4 PM - 5 PM 
 - **Trainers**: 
