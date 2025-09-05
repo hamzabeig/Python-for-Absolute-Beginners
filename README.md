@@ -1,5 +1,3 @@
-![](https://github.com/hamzabeig/Python-for-Absolute-Beginners/blob/main/python%20course%20banner.jpg)
-
 # 🔥 Python for Absolute Beginners
 
 ## ✔️ Course Information
@@ -7,7 +5,7 @@
 - **Schedule**: Monday to Friday, 4 PM - 5 PM 
 - **Trainers**: 
   - [Hamza Baig](https://www.linkedin.com/in/hbhamzabaig/)
-  - [Saher Nadeem](https://www.linkedin.com/in/saher-nadeem-b32447213/)
+  - Izza Fatima
 - **Moderators**:
   - [Muhammad Suleman](https://www.linkedin.com/in/muhammad-suleman-z/)
   - [Muhammad Umer Awan](https://www.linkedin.com/in/mdumerdm/)
