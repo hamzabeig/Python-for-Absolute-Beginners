@@ -14,82 +14,43 @@
 
 ## ✔️ Course Contents
 
-## Week 1: Introduction to Programming (Computer Science Basics)
+---
 
-### Day 1 - Introduction to Programming Language and Importance of Python.
+## 🗓 Week 1: Python Fundamentals
+- **Day 1:** Introduction to Programming, Importance of Python, and Course Roadmap  
+- **Day 2:** Installation, IDE Setup, How Code Runs (Compiler vs Interpreter), Writing First Program  
+- **Day 3:** Syntax, Variables, Data Types, Type Casting, Input/Output  
+- **Day 4:** Operators: Arithmetic, Assignment, Comparison, Logical, Membership, Identity  
+- **Day 5:** Practice Session: Variables + Operators + Mini Challenges  
 
-- 📹 [Lecture Recording](https://www.facebook.com/share/v/18uNrV4swi/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - Fundamentals of Programming
- 
+---
 
-### Day 2 - Coding Softwares, Data Types, Variables.
+## 🗓 Week 2: Control Flow and Problem Solving Foundations
+- **Day 1:** If-Else Conditions, Nested Conditions, Shorthand if-else  
+- **Day 2:** Logical Operators in Conditions, Practical Problem Solving  
+- **Day 3:** Loops – While Loop, Practical Examples  
+- **Day 4:** For Loop, Range Function, Loop Control Statements (`break`, `continue`, `pass`)  
+- **Day 5:** Practice + Mini Project: Simple Decision-Making and Loop Problems (LeetCode Easy)  
 
-- 📹 [Lecture Recording](https://www.facebook.com/share/v/19Z87L7NP3/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - IDE Setup
-  - Python Basics
-  - Compiler vs Interpreter
-  - Data Types
-  - Variables
-  - Comments
-  - print()
-  - Identation Rules
-  - Docker
-  - Kubernettes
+---
 
+## 🗓 Week 3: Data Structures (Strings, Lists) and LeetCode Practice
+- **Day 1:** Strings: Basics, Indexing, Slicing, String Methods, f-strings  
+- **Day 2:** Lists: Basics, Indexing, Modifying Lists, List Methods  
+- **Day 3:** Iterating over Lists and Strings, Nested Lists, List Comprehension  
+- **Day 4:** Problem-Solving with Lists and Strings (LeetCode Easy Problems)  
+- **Day 5:** Practice + Mini Project: String Manipulation or List Operations  
 
-### Day 3 - Memory Allocation, Type Casting, Variable Declaration.
+---
 
-- 📹 [Lecture Recording](https://www.facebook.com/share/v/1D8WrvVNk8/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - Memory Concepts
-  - Type Casting
-  - Arithematic Operators
-  - input()
-  - Multiple Variable Declaration
+## 🗓 Week 4: Advanced Data Structures & Functions
+- **Day 1:** Tuples and Sets: Basics, Accessing Elements, Set Operations  
+- **Day 2:** Dictionaries: Key-Value Pairs, Accessing & Modifying Data, Dictionary Methods  
+- **Day 3:** Functions: Defining Functions, Parameters, Return Values  
+- **Day 4:** Practice Problem-Solving with Functions, Dictionaries, and Sets  
+- **Day 5:** Final Mini Project + LeetCode Problem Walkthrough + Course Wrap-up & Next Steps  
 
-### Day 4 - Logical, Boolean, Membership and Identity Operators
-
-- 📹 [Recorded Lecture](https://www.facebook.com/share/v/1Y9gJLEkDq/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - Logical Operators
-  - Boolean Function
-  - Comparison Operators
-  - Identity Operators
-
-### Day 5 - Recap (Presentation by Participants).
-
-- 📹 [Recorded Lecture](https://www.facebook.com/share/v/1EabojM81y/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - All concepts covered in whole week were presented by participants
-
-
-## Week 2: Conditions and Loops
-### Day 1 - Introduction to Conditions (if, elif, else) and Short-hand Conditions.
-
-- 📹 [Recorded Lecture](https://www.facebook.com/share/v/1BDpF5c5bF/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - if, if else, elif Condition
-  - Short-hand Conditions
-
-### Day 2 - Logical Operators in Conditions, Nested Conditions and Pass Statement + Practice.
-
-- 📹 [Recorded Lecture](https://www.facebook.com/share/v/1YCwfcQPY9/)
-- 💻 [Colab Notebook]()
-- **Concepts Covered**:
-  - Logical Operators in Conditions
-  - Nested Conditions in detail
-  - Pass Statement
-  - Programs + Practice
-
-
+---
 
 ## 🚀 Resources
 - [PEP-8 Style Guide for Python Code](https://peps.python.org/pep-0008/)
